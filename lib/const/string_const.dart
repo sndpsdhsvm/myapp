@@ -1,0 +1,1 @@
+const loginMessage = 'Welcome back you\'ve been missed';
